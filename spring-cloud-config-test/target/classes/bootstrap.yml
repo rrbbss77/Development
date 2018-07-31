@@ -1,0 +1,12 @@
+spring:
+  profiles: default
+  application:
+    name: spring-cloud-config-test
+  cloud:
+    config:
+      failFast: true
+      server:
+        bootstrap: true
+        git:
+          uri: https://github.com/rrbbss77/config.git
+      uri: http://localhost:8080

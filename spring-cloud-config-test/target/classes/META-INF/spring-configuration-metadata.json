@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "hello.AppProp",
+      "name": "app",
+      "type": "hello.AppProp"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "hello.AppProp",
+      "name": "app.address",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.AppProp",
+      "name": "app.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
